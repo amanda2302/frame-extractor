@@ -217,7 +217,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 # ============================================================
-# Fish Frame Extractor - project-specific exclusions
+# Frame Extractor - project-specific exclusions
 # ============================================================
 
 # Experimental videos
