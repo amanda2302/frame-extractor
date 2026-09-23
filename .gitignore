@@ -216,3 +216,30 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# ============================================================
+# Fish Frame Extractor - project-specific exclusions
+# ============================================================
+
+# Experimental videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.m4v
+
+# Generated results
+results/
+resultados/
+
+# Extracted frames
+*.png
+*.jpg
+*.jpeg
+
+# Local FFmpeg installation
+ffmpeg/
+ffmpeg.exe/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
